@@ -1,6 +1,6 @@
 # Atividade_Arquitetura
 
-#Arquitetura proposta
+# Arquitetura proposta
 ![image](https://github.com/lucasconti888/Atividade_Arquitetura/assets/99270135/dc0018f5-ba95-44c6-88e1-9e0e2eaad346)
 
 
